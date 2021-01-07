@@ -1,0 +1,14 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="100" height="100" fill="#E5E5E5"/>
+<rect width="100" height="100" fill="white"/>
+<path d="M24 35H9V50H16H24" stroke="black"/>
+<path d="M26 35V51H35" stroke="black"/>
+<path d="M37 45V52H45" stroke="black"/>
+<path d="M39 42H45" stroke="black"/>
+<path d="M37 40V35H44" stroke="black"/>
+<path d="M54 34L42 57" stroke="black"/>
+<path d="M58 39L65 55" stroke="black"/>
+<path d="M50 43H59" stroke="black"/>
+<path d="M65 37L78 55V37" stroke="black"/>
+<path d="M65 34L65 57" stroke="black"/>
+</svg>
